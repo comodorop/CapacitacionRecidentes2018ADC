@@ -1,8 +1,5 @@
 # **Documentacion correspondiente del curso**
 
-> >
-
-
 
 ```
 git init
